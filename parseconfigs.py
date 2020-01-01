@@ -10,6 +10,10 @@ password = 'admin'
 # set to true for performance, set to false for reliability
 blocking = True
 
+uri = "mongodb+srv://test"
+
+
+
 
 #helper function to get the port given a gamemode
 def get_port(gamemode):
